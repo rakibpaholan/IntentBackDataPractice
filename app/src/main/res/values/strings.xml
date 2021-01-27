@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentBackWithData</string>
+    <string name="btnGoSecondActivity">Go Second Activity</string>
+    <string name="btnGoFirstActivity">Go First Activity</string>
+</resources>
